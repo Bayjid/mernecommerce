@@ -1,0 +1,17 @@
+.footer {
+  background-color: rgb(34, 33, 33);
+  color: white;
+  align-items: center;
+  position:absolute;
+left:0;
+bottom:0;
+right:0;
+
+}
+
+.leftFooter > img {
+  width: 10vmax;
+  margin: 1vmax;
+  cursor: pointer;
+}
+

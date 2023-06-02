@@ -1,0 +1,23 @@
+.sidebar {
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 0;
+}
+
+
+
+
+.sidebar a {
+  text-decoration: none;
+  color: black;  
+}
+
+
+.sidebar a > P {
+  display: flex;
+  align-items: center;
+  padding-left: 7rem;
+}
+
+

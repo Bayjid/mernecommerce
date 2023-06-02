@@ -1,0 +1,5 @@
+#registerImage > img {
+  width: 12vmax;
+  height: 12vmax;
+  border-radius: 50%;
+}
